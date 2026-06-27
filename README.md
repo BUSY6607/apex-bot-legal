@@ -1,4 +1,4 @@
- #Apex Legal
+# Apex Legal
 
 Official legal documentation for **Apex**, an advanced Discord
 moderation and community management bot.
